@@ -6,13 +6,13 @@ Supporting code for my article [video streaming with Flask](http://blog.miguelgr
 ------------------------
 git bash：
 
-CAMERA=opencv python app.py
-open
-http://localhost:5000
+CAMERA=opencv python app.py  
+open  
+http://localhost:5000  
 ----------------------
-From a Windows command prompt you can do the same as follows:
+From a Windows command prompt you can do the same as follows:  
 
-$ set CAMERA=opencv
-$ python app.py
-open
-http://localhost:5000
+$ set CAMERA=opencv  
+$ python app.py  
+open  
+http://localhost:5000  
